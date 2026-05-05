@@ -1,11 +1,11 @@
 # Mini_Project_OOP_Group_16
 Thành viên trong nhóm:
-
-+ Lê Thị Bích Trâm | MSSV: 25521880 ♥️
-+ Lê Ngọc Mai Phương | MSSV: 25521470 💚
-+ Nguyễn Hữu Long | MSSV: 25521044 💛
-+ Võ Nam Ngân Triều | MSSV: 25521928💙
-+ Nguyễn Quang Vỹ | MSSV: 25522109 🐴
+♥️💚💛💙
++ Lê Thị Bích Trâm | MSSV: 25521880 
++ Lê Ngọc Mai Phương | MSSV: 25521470 
++ Nguyễn Hữu Long | MSSV: 25521044 
++ Võ Nam Ngân Triều | MSSV: 25521928
++ Nguyễn Quang Vỹ | MSSV: 25522109 
 
 Trò chơi Cờ cá ngựa🐴
 
